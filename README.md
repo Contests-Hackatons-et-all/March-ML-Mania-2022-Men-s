@@ -1,9 +1,9 @@
-## This repository contains the code and information used in the Titanic - Machine Learning from Disaster competition in Kaggle.
+## This repository contains the code and information used in the Digit Recognizer competition in Kaggle.
 
-**Topic:** Classification of binary variable
+**Topic:** Image classification
 
-**Date:** February 2021
+**Date:** February 2022
 
 **Team:** Alone
 
-**Competition Link:** https://www.kaggle.com/c/titanic
+**Competition Link:** https://www.kaggle.com/c/digit-recognizer
