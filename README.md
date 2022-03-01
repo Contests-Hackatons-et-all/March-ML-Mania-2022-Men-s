@@ -1,9 +1,9 @@
-## This repository contains the code and information used in the Digit Recognizer competition in Kaggle.
+## This repository contains the code and information used in the March Machine Learning Mania 2022 - Men’s competition in Kaggle.
 
-**Topic:** Image classification
+**Topic:** Binary Classification
 
-**Date:** February 2022
+**Date:** March 2022
 
 **Team:** Alone
 
-**Competition Link:** https://www.kaggle.com/c/digit-recognizer
+**Competition Link:** https://www.kaggle.com/competitions?listOption=active&prestigeFilter=money
